@@ -10,6 +10,8 @@ description: >
   pipeline, CPU decode, GPU compute, VRAM, I/O) and tune batch size,
   DataLoader workers, pre-encoding, and precision accordingly to
   minimize wall-clock runtime.
+risk: safe
+source: https://github.com/Promethe-us/max-throughput
 ---
 
 # Max Throughput
